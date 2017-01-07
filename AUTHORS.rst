@@ -1,7 +1,8 @@
-Authors
+Төсөлд оролцсон
 -------
 
-* Eric (New contributor)
-* Anthony 
+* STX Citinet Co LLC (Project manager)
+* Solutec LLC (Hardware)
+* G communication (Software development)
 
 
